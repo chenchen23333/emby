@@ -10,9 +10,9 @@ DOMAIN-SUFFIX,free.28.al
 DOMAIN-SUFFIX,emby.wenjian.de
 DOMAIN-SUFFIX,media.nijigem.by
 DOMAIN-SUFFIX,alist7.eu.org
-DOMAIN-SUFFIX,emby.bangumi.
+DOMAIN-SUFFIX,emby.bangumi
 DOMAIN-SUFFIX,2pfdml.mobaiemby.site
-DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,cf.carlos.trade
 DOMAIN-SUFFIX,
 IP-CIDR,152.53.67.239/32,no-resolve
 IP-CIDR,188.172.228.49/32,no-resolve

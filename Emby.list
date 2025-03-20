@@ -1,5 +1,5 @@
  规则名称: Emby
-20250212
+20250320
 
 DOMAIN,195.201.86.86
 DOMAIN,cc.coemn.com
@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,2pfdml.mobaiemby.site
 DOMAIN-SUFFIX,cf.carlos.trade
 DOMAIN-SUFFIX,nebula-media.org
 DOMAIN-SUFFIX,media.doven.tv
+DOMAIN-SUFFIX,embymv.link
 IP-CIDR,152.53.67.239/32,no-resolve
 IP-CIDR,188.172.228.49/32,no-resolve
 IP-CIDR,202.61.255.248/32,no-resolve

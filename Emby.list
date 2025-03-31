@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,nebula-media.org
 DOMAIN-SUFFIX,media.doven.tv
 DOMAIN-SUFFIX,embymv.link
 DOMAIN-SUFFIX,emby.younoyes
+DOMAIN-SUFFIX,emby.jingzhe.pro
 IP-CIDR,152.53.67.239/32,no-resolve
 IP-CIDR,188.172.228.49/32,no-resolve
 IP-CIDR,202.61.255.248/32,no-resolve

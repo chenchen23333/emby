@@ -1,5 +1,5 @@
  规则名称: Emby
-20250504
+20250718
 DOMAIN,195.201.86.86
 DOMAIN,cc.coemn.com
 DOMAIN,cminf.sfcat.link
@@ -21,6 +21,16 @@ DOMAIN-SUFFIX,embymv.link
 DOMAIN-SUFFIX,super.yezi.my
 DOMAIN-SUFFIX,yyds.yezi.my
 DOMAIN-SUFFIX,beebi.org
+DOMAIN-SUFFIX,gy.meowfly.de
+DOMAIN-SUFFIX,frre.me
+DOMAIN-SUFFIX,rjcf.010004.xyz
+DOMAIN-SUFFIX,zoxfree.3767483.xyz
+DOMAIN-SUFFIX,cf.5msky.com
+DOMAIN-SUFFIX,heisi.org
+DOMAIN-SUFFIX,playz.mjji.de
+DOMAIN-SUFFIX,ciallo.party
+DOMAIN-SUFFIX,zn.al
+DOMAIN-SUFFIX,kfc.v50.su
 IP-CIDR,152.53.67.239/32,no-resolve
 IP-CIDR,188.172.228.49/32,no-resolve
 IP-CIDR,202.61.255.248/32,no-resolve

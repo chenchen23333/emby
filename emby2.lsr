@@ -5,6 +5,9 @@
 # 规则统计: 0
 DOMAIN-SUFFIX, c2.staryuki.me
 DOMAIN-SUFFIX, c1.staryuki.me
+DOMAIN-SUFFIX,staryuki.me.kiven.cc
+DOMAIN-SUFFIX,kfc.v50.su:443
+DOMAIN-SUFFIX,emby.v50.su:443
 IP-CIDR, 152.53.67.239/32, no-resolve
 IP-CIDR, 168.119.137.205/32, no-resolve
 IP-CIDR, 188.172.228.49/32, no-resolve
